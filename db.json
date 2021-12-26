@@ -1,0 +1,250 @@
+{
+    "products": [
+      {
+        "brand": "MOÉ",
+        "model": "Jacket",
+        "description": "Oversized single-breasted tailored jacket in silk and cashmere flannel with removable shoulder pads, front flap pockets and back vent.",
+        "price": 3590,
+        "image1": "https://www.therow.com/product_image/12549048jq/l/w1750.jpg",
+        "image2": "https://www.therow.com/product_image/12549048jq/f/w1750.jpg",
+        "video": "#",
+        "id": 1
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Sweater",
+        "description": "Meet the essential sweater your wardrobe has been missing. The Lily Pullover Sweater is comfy and breathable, made of organic cotton. The classic crewneck style and step hem detail make it easy to tuck into your favorite denim or wear over your leggings. ",
+        "price": 950,
+        "image1": "https://cdn.shopify.com/s/files/1/1136/2606/products/Lily-Pullover_f34205a0-7774-49c3-826e-6540cbe325a1_2048x2048.jpg?v=1638549494",
+        "image2": "https://cdn.shopify.com/s/files/1/1136/2606/products/ABLE2426_246edfb8-4d1b-4f06-a277-1549ba749569_2048x2048.jpg?v=1638549495",
+        "id": 2
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Sweater",
+        "description": "Mock turtleneck sweater ultrafine merino wool knit with boxy silhouette and ribbed neckline, cuffs and hem.",
+        "price": 1050,
+        "image1": "https://www.therow.com/product_image/12600294cb/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12600294cb/f/w1250.jpg",
+        "video": "#",
+        "id": 3
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Shirt",
+        "description": "Classic shirt in cotton corduroy with relaxed fit and point collar.",
+        "price": 950,
+        "image1": "https://www.therow.com/product_image/12600298rb/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12600298rb/f/w1250.jpg",
+        "id": 4
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Shoes",
+        "description": "This smooth silhouette was inspired by classic basketball trainers. With a premium suede outer and reinforced insoles will add some serious comfort to your step. This reinterpretation of a classic speaks for itself. Game on.",
+        "price": 195,
+        "image1": "https://cdn.shopify.com/s/files/1/0505/9044/9849/products/ETQ_HT02_Premium-Suede-Navy-Fitpic_png_3840x.png?v=1632129809",
+        "image2": "https://cdn.shopify.com/s/files/1/0505/9044/9849/products/135600HT01PremiumSuedeNavy_Side-front_640x.jpg?v=1632129809",
+        "video": "https://cdn.shopify.com/videos/c/vp/770ca2151e6646e884310fa87192006a/770ca2151e6646e884310fa87192006a.HD-1080p-2.5Mbps.mp4",
+        "id": 5
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Bag",
+        "description": "Sleek and structured, the Envelope Clutch has a concealed front magnet closure and slip pocket. There's just enough space for all of your essentials, and this bag makes the perfect night out accompaniment. An update to our beloved Tigist, the Envelope Clutch is sure to be one of your favorite bags.",
+        "price": 69,
+        "image1": "https://cdn.shopify.com/s/files/1/1136/2606/products/envelope-clutch-whiskey-lifestyle_2048x2048.jpg?v=1637704348",
+        "image2": "https://cdn.shopify.com/s/files/1/1136/2606/products/envelope-clutch-whiskey_2048x2048.jpg?v=1636142069",
+        "id": 6
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Shoes",
+        "description": "Pull-on boot in grained calfskin leather with elastic side panels, square toe and rubber band detail.",
+        "price": 1390,
+        "image1": "https://www.therow.com/product_image/17020657in/f/w1750.jpg",
+        "image2": "https://www.therow.com/product_image/17020657in/d/w1250.jpg",
+        "video": "#",
+        "id": 7
+      },
+      {
+        "brand": "MOÉ",
+        "model": "T-Shirt",
+        "description": "Relaxed, feminine, easy for everyday wear. The Mae Drapey Tee is an ideal wardrobe staple – designed to last for years and be one of the most versatile pieces in your collection.",
+        "price": 96,
+        "image1": "https://cdn.shopify.com/s/files/1/1136/2606/products/F20_Mae-Drapey-Tee_White_Front_2048x2048.jpg?v=1628106597",
+        "image2": "https://cdn.shopify.com/s/files/1/1136/2606/products/F20_Mae-Drapey-Tee_White_Back_2048x2048.jpg?v=1628106597",
+        "video": "#",
+        "id": 8
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Pants",
+        "description": "Mid-rise, 5-pocket slim jean with straight leg and button fly in Japanese cotton denim.",
+        "price": 650,
+        "image1": "https://www.therow.com/product_image/12447605rq/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12447605rq/f/w1250.jpg",
+        "video": "#",
+        "id": 9
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Pants",
+        "description": "Low-waisted, cropped pant in technical stretch viscose with skinny leg, narrow waistband, front and back seams and mini slits at hem.",
+        "price": 890,
+        "image1": "https://www.therow.com/product_image/12600331gf/l/w1750.jpg",
+        "image2": "https://www.therow.com/product_image/12600331gf/f/w1750.jpg",
+        "video": "#",
+        "id": 10
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Jeans",
+        "description": "Mid rise, ankle length 5-pocket jean in cotton denim with slim fit, straight leg, and subtly flared hem.",
+        "price": 590,
+        "image1": "https://www.therow.com/product_image/12571305dd/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12571305dd/f/w1750.jpg",
+        "id": 11
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Jeans",
+        "description": "Mid rise 5-pocket jean in Japanese denim with cropped straight leg.",
+        "price": 590,
+        "image1": "https://www.therow.com/product_image/12490629nw/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12490629nw/f/w1750.jpg",
+        "video": "#",
+        "id": 12
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Sweater",
+        "description": "Oversized crewneck sweater in soft 2-ply cashmere knit with ribbed neckline, cuffs and hem.",
+        "price": 1295,
+        "image1": "https://www.therow.com/product_image/12600290rs/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12600290rs/f/w1250.jpg",
+        "id": 13
+      },
+      {
+        "brand": "MOÉ",
+        "model": "sweater",
+        "description": "Oversized crewneck sweater in soft 2-ply cashmere knit with ribbed neckline, cuffs and hem.ful gray chair that will look great in your living space.",
+        "price": 1295,
+        "image1": "https://www.therow.com/product_image/12600291cr/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12600291cr/f/w1250.jpg",
+        "id": 14
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Jeans ",
+        "description": "Mid rise 5-pocket jean in Italian denim with straight leg, front and back creases and extra long inseam.",
+        "price": 650,
+        "image1": "https://www.therow.com/product_image/12513321nk/l/w1250.jpg",
+        "image2": "https://www.therow.com/product_image/12513321nk/f/w1750.jpg",
+        "id": 15,
+        "video": "#"
+      },
+      {
+        "brand": "MOÉ",
+        "model": "T-Shirt",
+        "description": "As classic as they come, this is the garment that speaks to every man. Designed to stand the test of time, our signature straight-cut crew neck T-Shirt is made from premium heavyweight Egyptian cotton jersey and accentuated with a ribbed neckline. Playing the role of both statement and staple, this piece will be the most worn item in your wardrobe.",
+        "price": 35,
+        "image1": "https://www.asket.com/imgproxy/e:1/width:750/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/2_d7c164f37e-asket_tee_charcoal_slide_01-original.jpg@jpg",
+        "image2": "https://www.asket.com/imgproxy/e:1/width:500/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/2_addf525e7e-asket_tee_charcoal_slide_02-original.jpg@jpg",
+        "id": 16
+      },
+      {
+        "brand": "MOÉ",
+        "model": "Hoodie",
+        "description": "With roots in athletics and counter-culture, the hoodie has evolved into an utterly essential staple. Cut from our custom developed, heavy-weight, 100% organic cotton loopback, The Hoodie features a generously sized double-lined hood, but is otherwise stripped from the usual, unnecessary details. By optimising for form and actual function (removing the likes of the pouch pocket), we've created an elevated piece that spells understated, rather than underdressed, making it a go-to layer both on - and off - the clock.",
+        "price": 95,
+        "image1": "https://www.asket.com/imgproxy/e:1/width:500/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/68_fad8637a66-asket_hoo_dark_navy_slide_02-original.jpg@jpg",
+        "image2": "https://www.asket.com/imgproxy/e:1/width:500/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/68_0f77727ca7-asket_hoo_dark_navy_slide_01-original.jpg@jpg",
+        "id": 17
+      }
+    ],
+    "models":[
+      {
+        "model": "T-Shirt",
+        "id": 41
+      },
+      {
+        "model": "Pants",
+        "id": 42
+      },
+      {
+        "model": "Sweater",
+        "id": 43
+      },
+      {
+        "model": "Jeans",
+        "id": 44
+      },
+      {
+        "model": "Shoes",
+        "id": 45
+      },
+      {
+        "model": "Shirt",
+        "id": 46
+      },
+      {
+        "model": "Hoodie",
+        "id": 47
+      },
+      {
+        "model": "Bag",
+        "id": 48
+      }
+
+    ],
+
+    "brands": [
+      {
+        "brand": "GREENPEACE",
+        "logo": "https://www.greenpeace.org/international/wp-content/themes/planet4-master-theme/images/Greenpeace-logo.png",
+        "id": 18
+      },
+      {
+        "brand": "350.org",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/350_organisation_logo.svg/1200px-350_organisation_logo.svg.png",
+        "id": 19
+      },
+      {
+        "brand": "Earth Island Institute",
+        "logo": "https://static.tildacdn.com/tild3465-3638-4438-b831-623633376534/EARTH-ISLAND-LOGO-FU.png",
+        "id": 27
+      },
+      {
+        "brand": "NRDC",
+        "logo": "https://www.nrdc.org/sites/all/themes/custom/nrdc/images/logofb.v2.png",
+        "id": 28
+      },
+      {
+        "brand": "WWF",
+        "logo": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/24/WWF_logo.svg/1200px-WWF_logo.svg.png",
+        "id": 29
+      },
+      {
+        "brand": "RAN",
+        "logo": "https://images.squarespace-cdn.com/content/v1/57e02448579fb3958abbecdc/1582694460023-Q06J9LOAT6WI13DHRJGX/green%2Bamerica%2Blogo.jpg",
+        "id": 30
+      },
+      {
+        "brand": "The Nature Conservancy",
+        "logo": "https://wildfor.life/sites/default/files/collaborators/logos_nature_conservancy.png",
+        "id": 33
+      },
+      {
+        "brand": "Friends of the Earth",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Friends_of_the_Earth_%28logo%29.svg/1200px-Friends_of_the_Earth_%28logo%29.svg.png",
+        "id": 34
+      },
+      {
+        "brand": "GFN",
+        "logo": "https://images.squarespace-cdn.com/content/5edef62fb05a3746ae2b834a/1612755810417-UP53Y88ZT9Z35G78HQZL/gfnlogo-1.jpg?content-type=image%2Fjpeg",
+        "id": 35
+      }
+    ]
+  }
+  
