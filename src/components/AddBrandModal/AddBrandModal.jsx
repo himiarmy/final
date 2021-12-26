@@ -21,10 +21,10 @@ const AddBrandModal = () => {
   return (
     <>
       <Button type="primary" onClick={showModal}>
-        Add brand
+        Add community
       </Button>
       <Modal
-        title="Add brand"
+        title="Add community"
         visible={isModalVisible}
         onCancel={handleCancel}
         footer={null}
@@ -68,7 +68,7 @@ const AddBrandModal = () => {
             }}
           >
             <Button type="primary" htmlType="submit">
-              Add brand
+              Add community
             </Button>
           </Form.Item>
         </Form>

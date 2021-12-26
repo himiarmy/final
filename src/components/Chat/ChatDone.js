@@ -42,15 +42,15 @@ function ChatDone() {
 
 //   const ThemeIcon = darkMode ? SunIcon : MoonIcon;
 
+const provider = new GoogleAuthProvider();
   const signInWithGoogle = async () => {
-    const provider = new GoogleAuthProvider();
     // Set language to the default browser preference
-    fire.auth().useDeviceLanguage();
+    // fire.auth().useDeviceLanguage();
     // Start sign in process
     try {
-      await fire.auth().signInWithPopup(googleAcc,provider);
-    } catch (error) {
-      console.log(error.message);
+      await signInWithPopup(googleAcc,provider);
+    } catch (e) {
+      console.log(e);
     }
   };
 
@@ -74,7 +74,7 @@ function ChatDone() {
     if (user) return <Channel user={user} />;
 
     return (
-      <div className="flex items-center justify-center shadow-md h-full">
+      <div style={{marginTop:"30vh"}} className="flex items-center justify-center shadow-md h-full ">
         <div className="flex flex-col items-center justify-center max-w-xl w-full mx-4 p-8 rounded-md shadow-card bg-white dark:bg-coolDark-600 transition-all">
           <h2 className="mb-2 text-3xl flex items-center">
             {/* <svg
@@ -96,7 +96,7 @@ function ChatDone() {
           </p>
           <button
             onClick={signInWithGoogle}
-            className="rounded shadow-button pl-6 pr-8 py-3 bg-white hover:bg-gray-50 text-gray-600 font-medium flex items-center justify-center overflow-y-hidden focus:outline-none focus:ring focus:ring-primary-500 focus:ring-opacity-75"
+            className="rounded mb-5 shadow-button pl-6 pr-8 py-3 bg-white hover:bg-gray-50 text-gray-600 font-medium flex items-center justify-center overflow-y-hidden focus:outline-none focus:ring focus:ring-primary-500 focus:ring-opacity-75"
           >
             <svg
               viewBox="5 -5 30 30"
